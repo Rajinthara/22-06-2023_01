@@ -1,0 +1,19 @@
+#myName{
+    font-family:Tahoma;
+    color:rgb(46, 46, 246);
+}
+img{
+    width:5%;
+}
+h1{
+    font-family: Tahoma;
+    color:rgb(4, 4, 178)
+}
+h2{
+    font-family: Tahoma;
+    color:rgb(5, 5, 219)
+}
+header{
+    background-color:aqua;
+    border: 400px;
+}
