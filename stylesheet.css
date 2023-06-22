@@ -1,19 +1,35 @@
+body{
+    background-color: rgba(0, 0, 0, 0.937);
+}
 #myName{
-    font-family:Tahoma;
-    color:rgb(46, 46, 246);
+    font-family:sans-serif;
+    color:rgb(242, 242, 242);
+    padding-bottom: 20px;
 }
 img{
-    width:5%;
+    width:10%;
+    position: absolute;
+    right: 0px;      
+    top: 500px;
 }
 h1{
-    font-family: Tahoma;
-    color:rgb(4, 4, 178)
+    display: inline-block;
+    font-family: sans-serif;
+    color:rgb(254, 254, 254);
+    padding-bottom: 10px;
+    border-bottom: 1px solid rgba(233, 231, 231, 0.588);
 }
 h2{
-    font-family: Tahoma;
-    color:rgb(5, 5, 219)
+    font-family: sans-serif;
+    color:rgb(244, 244, 244);
 }
-header{
-    background-color:aqua;
-    border: 400px;
+.details{
+display:inline-block;
+position:absolute;
+left:50px;
+}
+#picture{
+    position: absolute;
+    right:0px;
+    top:450px;
 }
